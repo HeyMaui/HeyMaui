@@ -1,8 +1,7 @@
 ### Hi there 👋
 ---
 
-I'm Maui Tadeje, a fifth-year student at **Epita**, where I study computer engineering, specializing in Data Science, Artificial Intelligence and Graphs (SCIA-G).<br>
-I am currently looking for a final-year internship as part of my Master’s degree.<br>
+I’m Maui Tadeje, a recent **EPITA** graduate in Computer Engineering, where I specialized in **Data Science, Artificial Intelligence, and Graphs** (SCIA-G).<br>
 <br>
 
 ### Projects
