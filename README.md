@@ -27,7 +27,7 @@ From **graph-based data analysis** to **machine learning pipelines**, I worked o
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**  
 `Python` `Java` `JavaScript` `SQL` `HTML/CSS` `C` `C++` `c#`
